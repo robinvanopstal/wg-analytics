@@ -1,5 +1,5 @@
 title: Analytics
-description: wg-analytics Working Group is responsible for analytics features and integrations in AMP.
+description: Responsible for analytics features and integrations in AMP.
 facilitator:
   login: zhouyx
   name: Yuxuan Zhou
@@ -18,6 +18,6 @@ communication:
   - channel: github
     name: GitHub
     content:
-      - item: "Analytics Working Group will post **Status Updates** every two weeks as an issue labeled with `Type: Status Update` in this repository."
+      - item: "Analytics Group will post **Status Updates** every two weeks as an issue labeled with `Type: Status Update` in this repository."
       - item: "Analytics Working Group will post **Announcements and Notices** regarding events as an issue labeled with `Type: Event` in this repository."
       - item: "Analytics Working Group will post **Quarterly Roadmap** as an issue labeled with `Type: Roadmap` in this repository."
